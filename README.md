@@ -1,4 +1,4 @@
-# yt-devmeetup-vue upgrade by skyjich
+# yt-devmeetup-vue
 
 > A Vue.js project
 
